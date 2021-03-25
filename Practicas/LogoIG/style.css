@@ -12,7 +12,7 @@ div {
     );
 }
 
-div :before {
+div:before {
     content: "";
     border: 1rem solid #fff;
     border-radius: 30%;
@@ -26,7 +26,7 @@ div :before {
     bottom: 0;
 }
 
-div :after {
+div:after {
     content: "";
     border: 1rem solid #fff;
     border-radius: 100%;
